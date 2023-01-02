@@ -1,0 +1,9 @@
+C:/DEVELOP/100daysOfCode/mouth-01/week-01/day-02/build-findNemo-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/findNemo.dir
+C:/DEVELOP/100daysOfCode/mouth-01/week-01/day-02/build-findNemo-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/DEVELOP/100daysOfCode/mouth-01/week-01/day-02/build-findNemo-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/DEVELOP/100daysOfCode/mouth-01/week-01/day-02/build-findNemo-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/DEVELOP/100daysOfCode/mouth-01/week-01/day-02/build-findNemo-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/DEVELOP/100daysOfCode/mouth-01/week-01/day-02/build-findNemo-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/DEVELOP/100daysOfCode/mouth-01/week-01/day-02/build-findNemo-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/DEVELOP/100daysOfCode/mouth-01/week-01/day-02/build-findNemo-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/findNemo_autogen_timestamp_deps.dir
+C:/DEVELOP/100daysOfCode/mouth-01/week-01/day-02/build-findNemo-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/findNemo_autogen.dir
